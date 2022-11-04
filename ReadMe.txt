@@ -3,6 +3,6 @@
 3. Meaning of columns in "Evaluation_by_expert.csv"：
     Eid: The id of original exercises.
     id: The id of newly generated exercises.
-    value_1 and value_2：Expert evaluation results. "0" means the exercise can be used in teaching, while "1" means the exercise  cannot be used in teaching.
+    value_1 and value_2: Expert evaluation results. "0" means the exercise can be used in teaching, while "1" means the exercise  cannot be used in teaching.
 
 4. The geometric relations used in experiment see in "Relations.pdf".
